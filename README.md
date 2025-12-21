@@ -1,13 +1,22 @@
 ![Undergraduate Student | BSc (Hons) in Computer Science](https://mayuranthanushan.sirv.com/Images/MayuranThanushan/Banner.jpeg)
 
-<h1 align="center"><b>Mayuran Thanushan</b></h1>
-<p><i>Passionate undergraduate at IIT Sri Lanka pursuing a BSc (Hons) in Computer Science. Thriving in a dynamic learning environment, I'm exposed to cutting-edge technologies and engaging coursework. I enjoy collaborative projects that require teamwork and creativity.
+<p><i>
+Passionate undergraduate at IIT Sri Lanka pursuing a BSc (Hons) in Computer Science. 
+Thriving in a dynamic learning environment, I'm exposed to cutting-edge technologies and engaging coursework. 
+I enjoy collaborative projects that require teamwork and creativity.
+<br>
 
-As I progress through my program, I'm excited about internships, research, and projects to leverage my education for a positive impact in the tech industry. Eager to connect with fellow students, educators, and industry professionals. Let's collaborate and make a difference together! 🌐</i></p>
+Currently, I am working as a <b>Software Engineering Intern – R&D</b> at <b>DFCC Bank PLC</b>, where I gain hands-on experience in building, enhancing, and experimenting with real-world enterprise-level solutions. 
+This role allows me to apply my academic knowledge to practical challenges while learning industry best practices, problem-solving approaches, and modern development workflows.
+<br>
+
+As I progress through my program, I'm excited about internships, research, and projects to leverage my education for a positive impact in the tech industry. 
+Eager to connect with fellow students, educators, and industry professionals. Let’s collaborate and make a difference together! 🌐
+</i></p>
 
 <br>
 
-Languages and Frameworks:
+Languages, Frameworks & Tools:
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
@@ -30,7 +39,10 @@ Languages and Frameworks:
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
     </a> 
-    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle SQL" width="40" height="40"/>
+    </a>
+   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40"/>
     </a>   
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
@@ -60,6 +72,9 @@ Languages and Frameworks:
     <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Sketch_Logo.svg" alt="Sketch" width="40" height="40"/>
     </a>  
+    <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva" width="40" height="40"/>
+    </a>
 </p>
 
 
