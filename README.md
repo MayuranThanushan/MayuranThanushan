@@ -1,17 +1,16 @@
 ![Undergraduate Student | BSc (Hons) in Computer Science](https://mayuranthanushan.sirv.com/Images/MayuranThanushan/Banner.jpeg)
 
 <p><i>
-Passionate undergraduate at IIT Sri Lanka pursuing a BSc (Hons) in Computer Science. 
-Thriving in a dynamic learning environment, I'm exposed to cutting-edge technologies and engaging coursework. 
-I enjoy collaborative projects that require teamwork and creativity.
+I’m a BSc (Hons) Computer Science undergraduate and Software Engineer with a strong interest in building practical, scalable, and user-focused software solutions. My experience spans full-stack development, system design, database management, API integration, and business requirement analysis within the banking industry.
 <br>
 
-Currently, I am working as a <b>Software Engineering Intern – R&D</b> at <b>DFCC Bank PLC</b>, where I gain hands-on experience in building, enhancing, and experimenting with real-world enterprise-level solutions. 
-This role allows me to apply my academic knowledge to practical challenges while learning industry best practices, problem-solving approaches, and modern development workflows.
+I work across different stages of the software development lifecycle, from understanding business requirements and designing technical solutions to development, testing, and deployment. I enjoy solving complex problems, exploring new technologies, and turning business challenges into effective technical solutions.
 <br>
 
-As I progress through my program, I'm excited about internships, research, and projects to leverage my education for a positive impact in the tech industry. 
-Eager to connect with fellow students, educators, and industry professionals. Let’s collaborate and make a difference together! 🌐
+My technical interests include JavaScript, TypeScript, React, Next.js, Node.js, C#, .NET, Python, Java, SQL, and software architecture. I’m also passionate about leadership, project management, and the connection between technology and business.
+<br>
+
+My goal is to continuously grow as a Software Engineer, strengthen my system design and architectural skills, and eventually take on leadership roles where I can drive technology strategy and deliver meaningful business impact.
 </i></p>
 
 <br>
